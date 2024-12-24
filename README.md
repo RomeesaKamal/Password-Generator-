@@ -109,7 +109,7 @@ This project is continuously evolving, and the following improvements and featur
 
 ## 🌎 Live Demo:
 
-- [Live Demo Link](https://romeesakamal.github.io/calculator-app-main/)
+- [Live Demo Link](https://romeesakamal.github.io/Password-Generator-/)
 
 ## Author
 
