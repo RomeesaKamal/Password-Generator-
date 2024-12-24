@@ -74,7 +74,7 @@ The app is designed to be fast, lightweight, and accessible, making it a practic
 - **HTML5**: For structuring the page and ensuring accessibility across devices.
 - **CSS3**: For styling and creating a responsive, visually appealing design.
 - **JavaScript**: For implementing the password generation logic and interactive features.
-- ** Responsive Design**:The project is fully responsive, ensuring a smooth experience on desktops, tablets, and mobile devices.
+- **Responsive Design**:The project is fully responsive, ensuring a smooth experience on desktops, tablets, and mobile devices.
 
 
 ### Links
